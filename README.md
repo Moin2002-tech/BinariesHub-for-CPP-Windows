@@ -2,8 +2,8 @@
 BinariesHub for C++ Windows Your one-stop repository for all AI and Machine Learning binaries compatible with C++ on Windows. Simplify your development workflow with prebuilt, high-performance binaries tailored for seamless integration in your projects. Explore resources for libraries like LibTorch, mlpack, dlib, OpenCV.
 
 # Libtorch 2.6.0 CPU Debug x64-windows
-# Link: https://16sxj-my.sharepoint.com/:u:/g/personal/moinshaikhofficial_16sxj_onmicrosoft_com/EVYy1IhXpD5Kloi4gXu-FWQB_AQbeb-O-yXpTge1q8sKcQ?e=liJ9k8
-
+# Link:
+https://16sxj-my.sharepoint.com/:u:/g/personal/moinshaikhofficial_16sxj_onmicrosoft_com/EVYy1IhXpD5Kloi4gXu-FWQB_AQbeb-O-yXpTge1q8sKcQ?e=liJ9k8
 
 # Libtorch 2.6.0 CUDA 12.4 Debug x64-windows
 # Link:
@@ -23,11 +23,8 @@ Welcome to the vcpkg Prebuilt Binaries Integration repository! This project prov
 # Getting Started
 Prerequisites
 To start using the prebuilt binaries, ensure you have the following:
-
 Visual Studio Community 2022 (or any compatible edition).
-
 vcpkg prebuilt binaries downloaded from the provided link.
-
 Basic knowledge of C++ project setup in Visual Studio.
 
 # Integration Instructions
@@ -36,16 +33,14 @@ Download the prebuilt binaries from this link.
 
 # Step 2: Set Up vcpkg in Your Project
 Open Visual Studio Community 2022 and navigate to your project folder.
-
 Place the vcpkg prebuilt binaries in a suitable location (e.g., a dedicated vcpkg folder in your project directory).
-
 Open the Command Prompt and run:
 
 sh
 vcpkg integrate install
 This command will set up the integration with Visual Studio.
-
 Integration Instructions Using vcpkg integrate project
+
 # Step 3: Download Prebuilt Binaries
 Download the prebuilt binaries from this link.
 
