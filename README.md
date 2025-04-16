@@ -67,3 +67,11 @@ Go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution.
 and paste this into console
  Install-Package "vcpkg.H.dev.vcpkg" -Source "H:\dev\vcpkg"
 
+# list of Installed packages
+./vcpkg list
+# boost
+# magma
+# opencv
+# litorch: 2.1.2 CPU only release mode is working
+# dlib
+
