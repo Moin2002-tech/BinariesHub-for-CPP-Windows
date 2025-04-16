@@ -72,6 +72,6 @@ and paste this into console
 # boost
 # magma
 # opencv
-# litorch: 2.1.2 CPU only release mode is working
+# libtorch: 2.1.2 CPU only release mode is working
 # dlib
 
