@@ -54,7 +54,11 @@ Navigate to the location of the vcpkg executable using the cd command.
 Run:
 
 sh
+vcpkg integrate install
+```integrate vcpkg world wide```
+
 vcpkg integrate project
+
 This command will generate NuGet configuration files that Visual Studio recognizes, enabling seamless integration of vcpkg packages into your project.
 configuration code look this! : 
 With a project open, go to Tools->NuGet Package Manager->Package Manager Console and paste:
