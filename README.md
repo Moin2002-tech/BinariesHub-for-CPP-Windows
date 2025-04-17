@@ -54,10 +54,10 @@ Navigate to the location of the vcpkg executable using the cd command.
 Run:
 
 sh
-vcpkg integrate install
-```integrate vcpkg world wide```
+```./vcpkg integrate install```
+integrate vcpkg world wide
 
-vcpkg integrate project
+```./vcpkg integrate project```
 
 This command will generate NuGet configuration files that Visual Studio recognizes, enabling seamless integration of vcpkg packages into your project.
 configuration code look this! : 
@@ -72,7 +72,7 @@ and paste this into console
  Install-Package "vcpkg.H.dev.vcpkg" -Source "H:\dev\vcpkg"
 
 # list of Installed packages
-./vcpkg list
+```./vcpkg list```
 # boost
 # magma
 # opencv
